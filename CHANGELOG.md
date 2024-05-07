@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/pennant/compare/v1.7.0...1.x)
+## [Unreleased](https://github.com/laravel/pennant/compare/v1.7.1...1.x)
+
+## [v1.7.1](https://github.com/laravel/pennant/compare/v1.7.0...v1.7.1) - 2024-05-06
+
+* [1.x] Make commands lazy by [@timacdonald](https://github.com/timacdonald) in https://github.com/laravel/pennant/pull/96
 
 ## [v1.7.0](https://github.com/laravel/pennant/compare/v1.6.0...v1.7.0) - 2024-03-04
 
