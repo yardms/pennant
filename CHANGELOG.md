@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/pennant/compare/v1.7.1...1.x)
+## [Unreleased](https://github.com/laravel/pennant/compare/v1.8.0...1.x)
+
+## [v1.8.0](https://github.com/laravel/pennant/compare/v1.7.1...v1.8.0) - 2024-05-21
+
+* [1.x] Improve unique constraint handling for high traffic applications by [@timacdonald](https://github.com/timacdonald) in https://github.com/laravel/pennant/pull/104
 
 ## [v1.7.1](https://github.com/laravel/pennant/compare/v1.7.0...v1.7.1) - 2024-05-06
 
