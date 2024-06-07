@@ -1,5 +1,5 @@
 {
-    "name": "laravel/pennant",
+    "name": "yardms/pennant",
     "description": "A simple, lightweight library for managing feature flags.",
     "keywords": ["laravel", "pennant", "feature", "flags"],
     "homepage": "https://github.com/laravel/pennant",
